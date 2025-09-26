@@ -1,0 +1,11 @@
+Ecommerce Project Plan
+1. Project Overview
+Project Name: Ecommerce Web Application
+Objective: To design, develop, and deploy a secure, scalable, and user-friendly Ecommerce platform that allows customers to browse, search, purchase products online, and track their orders.
+Scope:
+•	Web & Mobile Responsive UI
+•	Product Catalog (Categories, Search, Filters)
+•	Shopping Cart & Checkout
+•	Secure Payment Gateway Integration
+•	User Account (Profile, Orders, Wishlist)
+•	Admin Dashboard (Product, Order & User Management)
