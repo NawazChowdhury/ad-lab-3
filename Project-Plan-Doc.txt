@@ -10,6 +10,7 @@ Scope:
 •	User Account (Profile, Orders, Wishlist)
 •	Admin Dashboard (Product, Order & User Management)
 
+<<<<<<< HEAD
 3. Deliverables
 
 1. Frontend: React/Angular/Vue web app (responsive).
@@ -25,3 +26,12 @@ Scope:
 6. Deployment: Cloud hosting (AWS/Azure/GCP) with CI/CD pipelines.
 
 7. Documentation: User manuals, API documentation, architecture diagrams.
+=======
+2. Project Goals
+•	Deliver a high-performing ecommerce solution within 6 months.
+•	Ensure 99.9% uptime with secure infrastructure.
+•	Provide seamless checkout with multiple payment options.
+•	Implement role-based access (Admin, Seller, Customer).
+•	Build analytics features for sales and inventory.
+
+>>>>>>> 9e862771a0c601c416775405b289102a54d869fd
