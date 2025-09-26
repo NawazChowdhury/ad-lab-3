@@ -9,3 +9,11 @@ Scope:
 •	Secure Payment Gateway Integration
 •	User Account (Profile, Orders, Wishlist)
 •	Admin Dashboard (Product, Order & User Management)
+
+2. Project Goals
+•	Deliver a high-performing ecommerce solution within 6 months.
+•	Ensure 99.9% uptime with secure infrastructure.
+•	Provide seamless checkout with multiple payment options.
+•	Implement role-based access (Admin, Seller, Customer).
+•	Build analytics features for sales and inventory.
+
