@@ -9,3 +9,19 @@ Scope:
 •	Secure Payment Gateway Integration
 •	User Account (Profile, Orders, Wishlist)
 •	Admin Dashboard (Product, Order & User Management)
+
+3. Deliverables
+
+1. Frontend: React/Angular/Vue web app (responsive).
+
+2. Backend: Spring Boot / Node.js RESTful API.
+
+3. Database: MySQL / PostgreSQL for transactions, Redis for caching.
+
+4. Payment Integration: Stripe/PayPal/Interac.
+
+5. Authentication & Security: JWT, OAuth2, 2FA.
+
+6. Deployment: Cloud hosting (AWS/Azure/GCP) with CI/CD pipelines.
+
+7. Documentation: User manuals, API documentation, architecture diagrams.
